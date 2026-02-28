@@ -1,6 +1,6 @@
 # CodeCommerce - E-Commerce Dashboard
 
-![Project Banner Placeholder](https://via.placeholder.com/800x200?text=CodeCommerce+Dashboard)
+![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=CodeCommerce%20Dashboard&fontSize=60&animation=fadeIn&fontAlignY=38)
 
 > A comprehensive admin dashboard for e-commerce platforms to track sales, orders, and user analytics with interactive charts.
 
